@@ -28,5 +28,13 @@
 - Building experience with Git and GitHub
 - Continued development of data pipeline skills
 
+## Resume
+<div align="center">
+  <a href="./Chris Castillo_DataAnalyst2024.docx">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobe" />
+  </a>
+</div>
+
+
 ## Contact
 - 📫 Reach me at: [chriscastillo@me.com]
