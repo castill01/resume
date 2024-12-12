@@ -2,7 +2,7 @@
 
 ## About Me
 - 💼 Data Analyst Contractor, helping businesses transform data into insights
-- 🎓 Currently studying Data Science at SF State University
+- 🎓 Currently studying towards a Business Administration: Concentration in Decision Sciences from San Francisco State University
 - 💡 Building skills in data analysis and visualization
 - 🌱 Learning Python, SQL, and data analytics tools
 
