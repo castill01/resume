@@ -29,4 +29,4 @@
 - Continued development of data pipeline skills
 
 ## Contact
-- 📫 Reach me at: [your.email@example.com]
+- 📫 Reach me at: [chriscastillo@me.com]
